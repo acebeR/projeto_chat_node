@@ -1,5 +1,6 @@
 # Telas
 
+<img src="https://github.com/acebeR/projeto_chat_node/blob/main/gif/chat.gif?raw=true"   alt=""/>
 
 # Tecnologias
 - Node JS
