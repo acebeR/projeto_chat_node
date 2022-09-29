@@ -7,7 +7,6 @@
 - Express 4.18.1
 - EJS 3.1.8
 - Nodemon
-- Mongo DB
 - Consign (Melhorar rotas)
 - Body parser (Passar corpo entre telas)
 - Socket
